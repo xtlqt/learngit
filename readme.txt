@@ -7,3 +7,4 @@ Creating a new branch is quick AND simple
 
 -- 1st master ---
 -- hello by dev --
+-- 3th by dev but not to commit --
