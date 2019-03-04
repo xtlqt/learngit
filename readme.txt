@@ -4,3 +4,5 @@ Git has a mutalbe index called stage.
 Git tracks changes of files.
 
 Creating a new branch is quick AND simple
+
+-- 1st master ---
