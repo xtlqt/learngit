@@ -7,3 +7,4 @@ Creating a new branch is quick AND simple
 
 -- 1st master ---
 -- hello by dev --
+how to use rebase?? xtlqt
